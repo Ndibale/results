@@ -15,4 +15,4 @@ Use these commands to oppen application
 
 
  <!-- CHALLENGES THAT I FACED AND SOLUTIONS THAT I MADE
- The problem that i face during fetching data was cors policy, but i resolved it by allowing cors origin to all, then it worked fine to me -->gi
+ The problem that i face during fetching data was cors policy, but i resolved it by allowing cors origin to all, then it worked fine to me -->
