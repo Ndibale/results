@@ -1,4 +1,4 @@
-Use these commands to oppen application
+Use these commands to open application
 -> You need to use git clone command to download the application using 👉  (git clone "https://github.com/Ndibale/results")
 -> After clonning the app, then open the application than you have cloned into a text editor that you prefer
 -> Then follow these commands! 👇
