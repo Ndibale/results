@@ -2,7 +2,7 @@ Use these commands to open application
 -> You need to use git clone command to download the application using 👉  ("git clone https://github.com/Ndibale/results")
 -> After clonning the app, then open the application that you have cloned into a code editor that you prefer
 -> Then follow these commands! 👇
-1. cd client
+1. cd server
 2. npm run dev
 
 // I hope it will work 👏
